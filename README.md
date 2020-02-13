@@ -1,7 +1,7 @@
 # MiAI_Lane_Detect
 Use OpenCV to detect lanes on road
 
-Article link: http://ainoodle.tech/2020/01/21/di-tim-nu-cuoi-tet-canh-ty-cung-mi-ai/
+Article link: http://ainoodle.tech/2020/02/13/phat-hien-lan-duong-trong-bai-toan-xe-tu-lai/
 
 #MìAI 
 Fanpage: http://facebook.com/miaiblog<br>
